@@ -1,0 +1,8 @@
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Ruthless\source\repos\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.pdb
